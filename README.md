@@ -8,7 +8,7 @@ The goal of this project is to analyze the survey data to determine whether a dr
 Report:
 Below is a brief report that highlights driver/customer characterisitics that influence acceptance of two coupon categories: (1) bar coupons and (2) carryout and takeaway coupons.
 
-Link to the Jupyter notebook: [GitHub](https://github.com)
+Link to the Jupyter notebook: [Practical_App_1](Practical_App_1.ipynb)
 
 Key findings and conclusion for bar coupons: 
 * On an average, 41% of bar coupons get accepted
